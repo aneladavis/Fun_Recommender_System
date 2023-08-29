@@ -1,4 +1,4 @@
-NBA like-player recommeder engine
+NBA like-player Recommender Engine
 
 Modeled after Nathan Carabello's model from: https://nathancarabello.medium.com/nba-scouting-recommendation-engines-with-k-nearest-neighbors-knn-8eb0238a53d9
 
